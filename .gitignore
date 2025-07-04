@@ -1,0 +1,8 @@
+__pycache__
+env
+university_images
+courses.json
+fails.json
+no_data_combinations.json
+config.bat
+node_modules
